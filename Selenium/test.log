@@ -1,0 +1,13 @@
+WARNING:root:this ia a warning msg
+ERROR:root:This is a error msg
+CRITICAL:root:This ia a critical log msg
+2020-04-10 14:40:01,626: INFO: This is a info msg
+2020-04-10 14:40:01,627: DEBUG: This is Debug msg
+2020-04-10 14:40:01,628: WARNING: this ia a warning msg
+2020-04-10 14:40:01,628: ERROR: This is a error msg
+2020-04-10 14:40:01,628: CRITICAL: This ia a critical log msg
+2020-04-10 14:46:22,326: INFO: This is a info msg
+2020-04-10 14:46:22,327: DEBUG: This is Debug msg
+2020-04-10 14:46:22,327: WARNING: this ia a warning msg
+2020-04-10 14:46:22,328: ERROR: This is a error msg
+2020-04-10 14:46:22,328: CRITICAL: This ia a critical log msg
